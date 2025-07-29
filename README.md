@@ -1,7 +1,7 @@
 # Modern-Chair-E-comerce-website-
 
 # click here for the demo  
-(https://ankitt1868.github.io/Modern-Chair-E-comerce-website-/)
+Check out the live demo [here](https://ankitt1868.github.io/Modern-Chair-E-comerce-website-/)
 
 # Screenshots
 # Number-1
